@@ -74,9 +74,9 @@ pytest
 ## Screenshots
 ### Home Page
 
-![Home Page](screenshots/home)
+![Home Page](screenshots/home.png)
 
 ### Prediction Result
 
-![Result](screenshots/result1)
-![Result](screenshots/result2)
+![Result](screenshots/result1.png)
+![Result](screenshots/result2.png)
