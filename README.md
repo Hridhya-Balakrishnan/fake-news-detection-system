@@ -72,11 +72,6 @@ To run the automated test suite:
 pytest
 ```
 ## Screenshots
-### Home Page
+The screenshots below demonstrate the application's user interface and prediction workflow, including news input and the Machine Learning-based prediction results for different news articles.
 
-![Home Page](screenshots/home.png)
 
-### Prediction Result
-
-![Result](screenshots/result1.png)
-![Result](screenshots/result2.png)
