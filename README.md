@@ -71,3 +71,12 @@ To run the automated test suite:
 ```bash
 pytest
 ```
+## Screenshots
+### Home Page
+
+![Home Page](screenshots/home)
+
+### Prediction Result
+
+![Result](screenshots/result1)
+![Result](screenshots/result2)
